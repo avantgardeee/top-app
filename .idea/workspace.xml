@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="687781c3-420c-428e-8f0b-3507818f69d1" name="Changes" comment="" />
+    <list default="true" id="687781c3-420c-428e-8f0b-3507818f69d1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.module.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +35,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.stylelint": "C:\\Users\\Acer\\Desktop\\top-app-main\\node_modules\\stylelint",
     "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "C:\\Users\\Acer\\Desktop\\top-app-main\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -42,6 +48,7 @@
       <option name="presentableId" value="Default" />
       <updated>1670277930990</updated>
       <workItem from="1670277933279" duration="807000" />
+      <workItem from="1670278758469" duration="2204000" />
     </task>
     <servers />
   </component>
