@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="687781c3-420c-428e-8f0b-3507818f69d1" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.module.css" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.module.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Rating/Rating.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Rating/Rating.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +27,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Acer/Desktop/top-app-main",
+    "last_opened_file_path": "C:/Users/Acer/Desktop/top-app-main/layout/Footer",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.stylelint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -39,6 +37,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Acer\Desktop\top-app-main\layout\Header" />
+      <recent name="C:\Users\Acer\Desktop\top-app-main\layout\Sidebar" />
+      <recent name="C:\Users\Acer\Desktop\top-app-main\layout" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1670277930990</updated>
       <workItem from="1670277933279" duration="807000" />
-      <workItem from="1670278758469" duration="2204000" />
+      <workItem from="1670278758469" duration="4460000" />
+      <workItem from="1670433551170" duration="1587000" />
     </task>
     <servers />
   </component>
