@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="687781c3-420c-428e-8f0b-3507818f69d1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/interfaces/menu.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/page.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interfaces/product.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/courses/[alias].tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +17,9 @@
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="2IVs8xjbw35qhevOvMSu6hoDjXR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -59,7 +61,8 @@
       <workItem from="1670277933279" duration="807000" />
       <workItem from="1670278758469" duration="4460000" />
       <workItem from="1670433551170" duration="6906000" />
-      <workItem from="1670518414793" duration="2765000" />
+      <workItem from="1670518414793" duration="6403000" />
+      <workItem from="1670526188619" duration="1551000" />
     </task>
     <servers />
   </component>
